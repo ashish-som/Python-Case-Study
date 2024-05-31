@@ -1,0 +1,103 @@
+,ID,Country,Sample Size,Outcome,Duration
+0,66,China,669,Negative ,143
+1,15,Spain,788,Positive,51
+2,82,Japan,677,Inconclusive,345
+3,77,Japan,274,Positive,199
+4,85,,,Negative,
+5,84,,,Inconclusive,
+6,6,China,two hundred,Negative,97
+7,18,Australia,511,Negative,67
+8,1,Canada,829,Positive,339
+9,50,Australia,590,Negative,217
+10,42,UK,949,Positive,128
+11,88,USA,460%,Positive  ,293
+12,98,Canada,423,  Negative,92
+13,11,,100,Positive,
+14,38,Canada,792,Negative,249
+15,32,France,603,Inconclusive,33
+16,3,Australia,82,Negative,237
+17,79,United states,426,Inconclusive,55
+18,39,UK,290,Negative,187
+19,80,Japan,332,Positive,335
+20,73,UK,397,Negative,328
+21,96,China,713,Positive,182
+22,54,UK,888,Inconclusive,190
+23,45,China,456,Negative,309
+24,97,Japan,876,Negative,215
+25,47,UK,798,Inconclusive,210
+26,60,China,731,Inconclusive,252
+27,56,Germany,292,Positive,352
+28,4,Italy,97,Positive,198
+29,78,Japan,434,Inconclusive,276
+30,27,China,844,Negative,126
+31,53,Germany,209,Inconclusive,282
+32,2,Germany,979,Positive,192
+33,94,China,283,Inconclusive,244
+34,5,Canada,552,Negative,190
+35,16,Italy,662,Negative,three sixty five
+36,93,Italy,868,Positive,317
+37,31,,-200,Inconclusive,
+38,14,France,596,Inconclusive,205
+39,28,France,442,Negative,313
+40,86,Australia,759,Positive,49
+41,9,Australia,854,Inconclusive,333
+42,89,Australia,698,Negative,171
+43,52,USA,574,Inconclusive,220
+44,57,UK,135,Inconclusive,157
+45,71,Australia,689,Positive,302
+46,69,Canada,847,Inconclusive,156
+47,19,Spain,692,Inconclusive,259
+48,61,Germany,606,Positive,83
+49,22,US,267,Positive,312
+50,59,Spain,627,Positive,310
+51,48,Germany,704,Inconclusive,124
+52,20,UK,818,Positive,80
+53,63,UK,695,Negative,352
+54,17,UK,992,Negative,187
+55,30,Germany,64,Inconclusive,333
+56,41,Japan,145,Inconclusive,-90
+57,87,France,505,Inconclusive,350
+58,25,Japan,447,Negative,306
+59,99,Japan,721,Negative,219
+60,91,France,726,Inconclusive,121
+61,55,Australia,748,Positive,285
+62,70,Japan,380,Negative,184
+63,90,France,367,Negative,172
+64,37,Japan,913,Negative,201
+65,62,Spain,623,Positive,87
+66,23,China,552,Inconclusive,56
+67,72,Italy,555,Positive,133
+68,83,Australia,794,Inconclusive,342
+69,49,Canada,220,Inconclusive,128
+70,64,China,845,Inconclusive,203
+71,24,Spain,816,Negative,255
+72,10,Italy,148,Positive,164
+73,76,China,239,Positive,68
+74,21,Italy,fifty,Positive,293
+75,36,Italy,624,Positive,46
+76,92,USA,274,Negative,351
+77,75,,,Negative,
+78,58,Spain,845,Negative,47
+79,68,Australia,389,Inconclusive,180
+80,7,France,623,Inconclusive,318
+81,34,France,510,Inconclusive,221
+82,95,Canada,733,Positive,80
+83,26,FR,920,Positive,315
+84,8,Canada,777,Negative,306
+85,81,Canada,682,Positive,42
+86,35,Canada,740,Negative,78
+87,2,Germany,979,Positive,192
+88,46,Italy,280,Positive,331
+89,100,Australia,657,Negative,154
+90,13,Australia,775,Positive,62
+91,29,Canada,256,Inconclusive,346
+92,44,Japan,534,Inconclusive,66
+93,1,Canada,829,Positive,339
+94,74,Italy,522,Positive,275
+95,40,Germany,613,Inconclusive  ,75
+96,33,Italy,941,Positive,64
+97,65,UK,77, Inconclusive,309
+98,67,Germany,605,Negative,317
+99,12,Australia,921,Positive,157
+100,43,China,783,Positive,262
+101,51,France,85,Inconclusive,-365

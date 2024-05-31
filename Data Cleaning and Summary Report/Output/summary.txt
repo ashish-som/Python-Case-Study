@@ -1,0 +1,20 @@
+Data Cleaning Report
+====================
+
+Report generated on: 2024-05-31 11:42:04.735052
+
+Duplicates:
+  Total Duplicates: 0
+
+Missing Values:
+  Unnamed: 0: 0
+  ID: 0
+  Country: 5
+  Sample Size: 3
+  Outcome: 0
+  Duration: 5
+
+Improper Formatting:
+  Sample Size: 3
+  Duration: 1
+
