@@ -39,8 +39,8 @@ def datafraeme_to_csv(df,destination_path,file_name):
 
 if __name__=='__main__':
 
-    source_path=r"C:\Users\ashis\OneDrive\Documents\Case_Study\Task_3\resources"
-    dest_path=r"C:\Users\ashis\OneDrive\Documents\Case_Study\Task_3\Output"
+    source_path=r"C:\Users\ashis\OneDrive\Documents\Case_Study\Python-Case-Study\Task_3\resources"
+    dest_path=r"C:\Users\ashis\OneDrive\Documents\Case_Study\Python-Case-Study\Task_3\Output"
 
     files=get_pdf_files_list(source_path)
     for i in files:

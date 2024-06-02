@@ -1,5 +1,7 @@
 # Project Outline: Country Extractor
 
+# GitHub Link: https://github.com/ashish-som/Python-Case-Study
+
 ## Objective: This project extracts country names from PDF files and saves the extracted information into CSV files. It uses various Python libraries to read PDF files, extract text, identify country names, and handle data manipulation and storage. 
 
 ---
@@ -60,7 +62,7 @@
 
 ## File Structure
 
-Case_Study/Task_3
+Python-Case-Study/Task_3
 │
 ├── country.py # Main script with all functions
 ├── PROJECT_OUTLINE.md # Project documentation

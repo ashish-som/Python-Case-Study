@@ -1,5 +1,7 @@
 # Project Title: Data Cleaning Automation Tool
 
+# GitHub Link: https://github.com/ashish-som/Python-Case-Study
+
 ## Objective:
 
 This project aims to provide an automated tool to clean datasets by identifying and correcting data inconsistencies, such as duplicate records, missing entries, and improper formatting. The tool will also generate a report summarizing the issues found and the actions taken.

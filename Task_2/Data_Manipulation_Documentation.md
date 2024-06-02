@@ -1,5 +1,7 @@
 # Project Outline: Data Manipulation and Cleaning
 
+# GitHub Link: https://github.com/ashish-som/Python-Case-Study
+
 ## Objective: The objective of this project is to clean and prepare data from an existing dataset 'test.csv'. The goal is to identify and correct inconsistencies such as missing values, incorrect entries, and irregular formatting.
 
 ---
@@ -50,7 +52,7 @@
 
  # File Structure
 
- Case_study/
+ Python-Case_Study/
 ├── Task_2/
 │   ├── Data_Manipulation.ipynb  # Jupyter notebook containing the code and documentation
 ├── resources/

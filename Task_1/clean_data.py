@@ -39,11 +39,11 @@ def clean_data(df):
         return unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode('ascii')
     
     clean_df['Text'] = clean_df['Text'].apply(clean_string)
-    clean_df.to_csv(r"C:\Users\ashis\OneDrive\Documents\Case_Study\Task_1\Output\cleaned_tiabs.csv",index=False)
+    clean_df.to_csv(r"C:\Users\ashis\OneDrive\Documents\Case_Study\Python-Case-Study\Task_1\Output\cleaned_tiabs.csv",index=False)
     
 if __name__ == "__main__":
     
-    file_path= r"C:\Users\ashis\OneDrive\Documents\Python_case_study\resources\tiabs.xlsx"
+    file_path= r"C:\Users\ashis\OneDrive\Documents\Case_Study\Python-Case-Study\Task_1\resources\tiabs.xlsx"
     df=load_dataset(file_path)
     cleaned_df = clean_data(handle_missing_values(df,strategy='fill'))
    

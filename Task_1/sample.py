@@ -17,10 +17,10 @@ def sample_data(df):
         elif sample.duplicated().sum()!=0:
             state=np.random.randint(100,1000,1)
         else:
-            sample.to_csv(r"C:\Users\ashis\OneDrive\Documents\Case_Study\Task_1\Output\sample.csv",index=False)
+            sample.to_csv(r"C:\Users\ashis\OneDrive\Documents\Case_Study\Python-Case-Study\Task_1\Output\sample.csv",index=False)
             break
             
 
 if __name__=='__main__':
-    path=r"C:\Users\ashis\OneDrive\Documents\Case_Study\Task_1\Output\cleaned_tiabs.csv"
+    path=r"C:\Users\ashis\OneDrive\Documents\Case_Study\Python-Case-Study\Task_1\Output\cleaned_tiabs.csv"
     sample_data(load_dataset(path))

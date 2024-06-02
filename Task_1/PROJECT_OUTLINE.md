@@ -1,5 +1,7 @@
 # Project Outline: Text Data Cleaning, Concatenation and Sampling
 
+# GitHub Link: https://github.com/ashish-som/Python-Case-Study
+
 ## Objective: Develop a Python script to handle and clean a provided dataset.
 
 - In an Excel file (‘tiabs.xlsx’) containing 1,000 titles and abstracts (tiabs) along with other metadata. 
@@ -70,7 +72,7 @@ The task is to:-
 
 ## File Structure:
 
-Case_Study/Task_1
+Python-Case-Study/Task_1
 │
 ├── clean_data.py               # Script for data cleaning and concatenation
 |── sample.py                   # Script for data sampling
